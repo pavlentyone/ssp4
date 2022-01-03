@@ -1,0 +1,22 @@
+.body{
+	font-family: Arial;
+	margin-left: 35%;
+	width: 300px;
+}
+
+.ui{
+	margin: 5%;
+}
+
+.image{
+	width: 100%;
+	border-radius: 10px;
+}
+
+.divInf{
+	padding-top: 20px;
+}
+
+body div div{
+	padding-top: 3px;
+}
